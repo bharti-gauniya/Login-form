@@ -1,0 +1,22 @@
+body {
+    font-family:Arial;
+    text-align:center;
+}
+.login{
+    width:200px;
+    margin:auto;
+    padding:10px;
+    background:white;
+    border-radius:5px;
+}
+input{
+    width:90%;
+    padding:8px;
+    margin:8px;
+}
+button{
+    width:100%;
+    padding:8px;
+    background-color:blue;
+    color:white;
+}
